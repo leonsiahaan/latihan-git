@@ -1,3 +1,4 @@
 ini adalah file yang
 berisikan sc
-aplikasi kita
+ini contoh
+fitur barug
