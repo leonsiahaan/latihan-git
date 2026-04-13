@@ -2,3 +2,4 @@ ini adalah file yang
 berisikan sc
 ini contoh
 fitur notifikasi
+disini ada kode orang lain
